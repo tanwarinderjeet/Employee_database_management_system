@@ -1,6 +1,6 @@
-# Employee Management System
+# Employee Database Management System
 
-A Python-based Employee Management System that performs CRUD (Create, Read, Update, Delete) operations using MySQL.
+A Python-based Employee Database Management System that performs CRUD (Create, Read, Update, Delete) operations using MySQL.
 
 This is a menu-driven console application developed using Python, Object-Oriented Programming (OOP), MySQL, and SQL. The application allows users to add, view, update, and delete employee records stored in a MySQL database.
 
@@ -29,7 +29,7 @@ This is a menu-driven console application developed using Python, Object-Oriente
 ## Project Structure
 
 ```text
-EmployeeManagementSystem/
+Employee_database_management_system/
 │
 ├── main.py
 ├── employee.py
@@ -108,7 +108,7 @@ git clone <your-github-repository-url>
 ### 2. Navigate to the project directory
 
 ```bash
-cd EmployeeManagementSystem
+cd Employee_database_management_system
 ```
 
 ### 3. Install the required packages
@@ -143,7 +143,7 @@ py main.py
 The application will display the following menu:
 
 ```text
-========== EMPLOYEE MANAGEMENT SYSTEM ==========
+========== EMPLOYEE DATABASE MANAGEMENT SYSTEM ==========
 1. Add Employee
 2. View Employees
 3. Update Employee
